@@ -34,6 +34,9 @@ The goal of this project is to visualize long-term trends, identify patterns acr
 
 ### Created by Aarushi Yadav  
 [LinkedIn](www.linkedin.com/in/aarushi-yadav-6b0024289)
+
+---
+
 This project is for educational and personal use only. Free to use with credits.
 
 
